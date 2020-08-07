@@ -7,12 +7,10 @@
 - 🥅 2020 Goal: Get a job as a software developer and do awesome stuff for my employer!
 - ⚡ Fun Fact: I grew on a tiny island, St. Maarten!
 
-
 ### Connect with me:
 
 [<img align="left" alt="clint-chu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="clint-chu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 ### Languages and Tools:
 
