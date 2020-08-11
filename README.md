@@ -1,4 +1,4 @@
-![](https://i.imgur.com/78Vv3ZO.gif)
+![](https://i.imgur.com/4smqC8n.gif)
 
 #### Languages and Tools:
 
