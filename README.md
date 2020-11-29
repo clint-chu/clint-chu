@@ -1,4 +1,4 @@
-<p align="center"> <img width="" height="" src="https://i.imgur.com/EsibECL.gif"> </p>
+<!-- <p align="center"> <img width="" height="" src="https://i.imgur.com/EsibECL.gif"> </p> -->
 <!-- <p align="center"> <img width="" height="" src="https://i.imgur.com/4eSjVKP.gif"> </p> -->
 <p align="center"> <img width="" height="" src="https://i.imgur.com/dIGqATm.gif"> </p>
 
